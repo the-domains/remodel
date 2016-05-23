@@ -1,0 +1,28 @@
+name: remodel
+favicon: null
+layout_spectrum: 0.014509379863739014
+typography_spectrum: 0.46999040502123535
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.8508798517286777
+  lightness: 0.42095444281585515
+  saturation: 0.8582740558777004
+  rhythmicContrast: 0.563591550802812
+purpose: []
